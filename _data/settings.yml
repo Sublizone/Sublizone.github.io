@@ -172,23 +172,23 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "Camisetas",
+    type : "camisetas"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "Tazas",
+    type : "tazas"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "Almohadas",
+    type : "almohadas"
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "https://scontent.fgye6-1.fna.fbcdn.net/v/t1.0-9/121106328_775444953017393_7295645737696586642_o.jpg?_nc_cat=101&_nc_sid=a26aad&_nc_ohc=bx4grpZb2KEAX8uAwYJ&_nc_ht=scontent.fgye6-1.fna&oh=1c1ae4fdd4659996957c980ba544189f&oe=5FA76C80"
     url: "#"
     portfolio-type:
-     - type: "design"
+     - type: "camisetas"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
@@ -201,10 +201,10 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-6.png"
+  - image : "https://scontent.fgye6-1.fna.fbcdn.net/v/t1.0-9/119238594_754966341731921_9032196585352775576_o.jpg?_nc_cat=104&_nc_sid=a26aad&_nc_ohc=DPpZNNyCLqoAX-U1WrM&_nc_ht=scontent.fgye6-1.fna&oh=8d8b032b4cb49a2987b234c5770fcf90&oe=5FA8DE24"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "camisetas"
       - type: "branding"
       
   - image : "assets/images/portfolio/item-8.png"
@@ -215,17 +215,17 @@ portfolio-items:
   - image : "assets/images/portfolio/item-5.png"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "camisetas"
       
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "https://scontent.fgye6-1.fna.fbcdn.net/v/t1.0-9/118309067_744280372800518_4942312632764129567_o.jpg?_nc_cat=111&_nc_sid=9267fe&_nc_ohc=NOfIhjA98ugAX8QaGob&_nc_ht=scontent.fgye6-1.fna&oh=0cdd12a6c5d44b689d2be1ca1bddba43&oe=5FA7EBB6"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "camisetas"
       - type: "illustration"
       - type: "branding"
       
