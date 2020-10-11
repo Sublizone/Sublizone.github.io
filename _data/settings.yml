@@ -41,10 +41,10 @@ hero:
   hero-title: Sublimación <br> Y Estampados
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/sublizone2"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/sublizone2/"}
+- {icon: "ti-dribbble", link: "/"}
+- {icon: "ti-twitter", link: ""}
 
 
 #-------------------------------
