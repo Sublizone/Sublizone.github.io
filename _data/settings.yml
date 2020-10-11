@@ -185,7 +185,7 @@ portfolio-label:
   }
 
 portfolio-items:
-  - image : "https://scontent.fgye6-1.fna.fbcdn.net/v/t1.0-9/121106328_775444953017393_7295645737696586642_o.jpg?_nc_cat=101&_nc_sid=a26aad&_nc_ohc=bx4grpZb2KEAX8uAwYJ&_nc_ht=scontent.fgye6-1.fna&oh=1c1ae4fdd4659996957c980ba544189f&oe=5FA76C80"
+  - image : "assets/images/portfolio/camiseta_1.jpg"
     url: "#"
     portfolio-type:
      - type: "camisetas"
@@ -201,7 +201,7 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
       
-  - image : "https://scontent.fgye6-1.fna.fbcdn.net/v/t1.0-9/119238594_754966341731921_9032196585352775576_o.jpg?_nc_cat=104&_nc_sid=a26aad&_nc_ohc=DPpZNNyCLqoAX-U1WrM&_nc_ht=scontent.fgye6-1.fna&oh=8d8b032b4cb49a2987b234c5770fcf90&oe=5FA8DE24"
+  - image : "assets/images/portfolio/camiseta_2.jpg"
     url: "#"
     portfolio-type:
       - type: "camisetas"
@@ -222,14 +222,14 @@ portfolio-items:
     portfolio-type:
       - type: "branding"
       
-  - image : "https://scontent.fgye6-1.fna.fbcdn.net/v/t1.0-9/118309067_744280372800518_4942312632764129567_o.jpg?_nc_cat=111&_nc_sid=9267fe&_nc_ohc=NOfIhjA98ugAX8QaGob&_nc_ht=scontent.fgye6-1.fna&oh=0cdd12a6c5d44b689d2be1ca1bddba43&oe=5FA7EBB6"
+  - image : "assets/images/portfolio/camiseta_3.jpg"
     url: "#"
     portfolio-type:
       - type: "camisetas"
       - type: "illustration"
       - type: "branding"
       
-  - image : "assets/images/portfolio/item-7.png"
+  - image : "assets/images/portfolio/camiseta_1.jpg"
     url: "#"
     portfolio-type:
       - type: "illustration"
