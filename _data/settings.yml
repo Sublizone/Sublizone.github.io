@@ -185,47 +185,56 @@ portfolio-label:
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/camiseta_1.jpg"
+  - image : "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
-     - type: "camisetas"
+     - type: "design"
+     - type: "illustration"
       
-  - image : "assets/images/portfolio/camiseta_3.jpg"
+  - image : "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "camisetas"
+      - type: "branding"
       
-  - image : "assets/images/portfolio/camiseta_2.jpg"
+  - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "camisetas"
+      - type: "illustration"
       
-  - image : "assets/images/portfolio/taza_1.jpg"
+  - image : "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
-      - type: "tazas"
+      - type: "design"
+      - type: "branding"
       
- - image : "assets/images/portfolio/taza_2.jpg"
+  - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "tazas"
+      - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-5.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
 
- - image : "assets/images/portfolio/taza_3.jpg"
-    url: "#"
-    portfolio-type:
-      - type: "tazas"
-      
- - image : "assets/images/portfolio/alm_1.jpg"
-    url: "#"
-    portfolio-type:
-      - type: "almohadas"
- 
-  - image : "assets/images/portfolio/alm_2.jpg"
-    url: "#"
-    portfolio-type:
-      - type: "almohadas"
-  
-  
+
 #-------------------------------
 # Testimonials Section
 
