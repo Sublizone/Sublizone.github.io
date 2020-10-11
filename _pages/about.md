@@ -1,5 +1,5 @@
 ---
-layout: top
+layout: about
 title: Top de Productos
 author: Johnathan Smith
 image: assets/images/about/author.jpg
