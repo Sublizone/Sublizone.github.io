@@ -2,7 +2,7 @@
 layout: post
 title:  Familiar
 date:   2020-05-26 15:05:55 +0300
-image:  /assets/images/portfolio/camiseta_3.jpg
+image:  /assets/images/portfolio/familiar.jpg
 author: uixgeek
 tags:   Camisetas
 ---
