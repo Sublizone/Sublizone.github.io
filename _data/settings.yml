@@ -189,13 +189,11 @@ portfolio-items:
     url: "#"
     portfolio-type:
      - type: "camisetas"
-     - type: "illustration"
       
   - image : "assets/images/portfolio/camiseta_3.jpg"
     url: "#"
     portfolio-type:
       - type: "camisetas"
-      - type: "branding"
       
   - image : "assets/images/portfolio/camiseta_2.jpg"
     url: "#"
